@@ -22,5 +22,3 @@
 
 Estudande de Desenvolvimento de Sistemas na Etec de Guaianazes, apaixonado por tecnologia e por a usar para tornar a vida de todos mais fácil 🚀🚀
 
-  ![Snake animation](https://github.com/GabAraujo08/GabAraujo08/blob/output/github-contribution-grid-snake.svg)
-
