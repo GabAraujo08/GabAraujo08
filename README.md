@@ -20,5 +20,5 @@
   
 </div><br/>
 
-Estudande de Desenvolvimento de Sistemas na Etec de Guaianazes, apaixonado por tecnologia e por a usar para tornar a vida de todos mais fácil 🚀🚀
+Formado em Desenvolvimento de Sistemas pela ETEC De Guaianazes, apaixonado por tecnologia.🚀🚀
 
