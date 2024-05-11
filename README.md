@@ -6,6 +6,7 @@
 - 🔰  Sou de São Paulo/SP, Brasil
 - ⚡ Apaixonado por Filmes e Tecnologia
 - 🧠 Formado em Desenvolvimento de Sistemas pela ETEC
+- 🧠 Cursando Análise e Desenvolvimento de Sistemas na FIAP
 
 ##
 
