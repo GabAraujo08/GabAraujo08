@@ -4,7 +4,7 @@
 ### O meu nome é Gabriel, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de São Paulo/SP, Brasil
-- ⚡ Apaixonado por Filmes e Tecnologia
+- ⚡ Apaixonado por tecnologia.
 - 🧠 Formado em Desenvolvimento de Sistemas pela ETEC
 - 🧠 Cursando Análise e Desenvolvimento de Sistemas na FIAP
 
