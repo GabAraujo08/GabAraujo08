@@ -58,3 +58,6 @@ Sou estagiário na área de Machine Learning e IA, apaixonado por Engenharia de 
 
 ⭐ De [GabAraujo08](https://github.com/GabAraujo08)
 
+## 🐍 Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/GabAraujo08/GabAraujo08/output/github-snake.svg)
