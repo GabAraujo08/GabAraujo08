@@ -5,7 +5,7 @@
 Sou estagiário na área de Machine Learning e IA, apaixonado por Engenharia de Software, Data Science, Engenharia de Dados, Análise de Dados, Machine Learning e áreas correlatas. Atualmente estou focando em Python, SQL, Scikit-Learn, Machine Learning, Modelos de Regressão, Classificação, etc... e trabalhando em projetos que buscam trazer inovação e automação na equipe que trabalho hoje.
 
 - 🌱 Aprendendo: Python, SQL, Scikit-Learn, Machine Learning, Modelos de Regressão, Classificação, Arquitetura de Software, Git.
-- 👨‍💻 Cargo: Estagiário de Machine Learning e IA na VIVO.
+- 👨‍💻 Cargo: Cientista de Dados JR - Bradesco
 - 📫 Como me encontrar: gabriel.araujosilvabrito@gmail.com
 - ⚡ Curiosidade: Apaixonado por filmes.
 
